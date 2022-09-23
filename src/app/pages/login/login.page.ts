@@ -12,7 +12,7 @@ export class LoginPage implements OnInit {
   ngOnInit() {
   }
   onSubmit(){
-    
+    console.log('Logueao');
   }
 
 }
